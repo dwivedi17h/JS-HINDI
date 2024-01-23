@@ -1,3 +1,3 @@
 # JS-HINDI
-Javascript code in Hindi with code 
-author-himanshu
+Javascript code in Hindi with code <br>
+Author-Himanshu DWivedi
